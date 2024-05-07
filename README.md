@@ -4,5 +4,9 @@ This Python script facilitates the seamless import of tickets from a CSV (Comma-
 
 --------------
 
-See documentation here:</br>
+<h3>Instructions</h3>
+</br>
+👉 See documentation here:</br>
 https://everlasting-eustoma-5c2.notion.site/NinjaOne-Bulk-Uploader-Ticketing-2df47979219d4973a5bcc06fd8748ca9
+
+--------------
